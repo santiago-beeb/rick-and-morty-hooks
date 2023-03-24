@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-hooks/static/css/main.30432c73.css",
+    "main.js": "/rick-and-morty-hooks/static/js/main.84b53657.js",
+    "index.html": "/rick-and-morty-hooks/index.html",
+    "main.30432c73.css.map": "/rick-and-morty-hooks/static/css/main.30432c73.css.map",
+    "main.84b53657.js.map": "/rick-and-morty-hooks/static/js/main.84b53657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30432c73.css",
+    "static/js/main.84b53657.js"
+  ]
+}
